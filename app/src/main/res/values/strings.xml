@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="sample_video_mp4">Sample_Video.mp4</string>
+    <string name="download">Download</string>
+</resources>
